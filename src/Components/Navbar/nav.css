@@ -1,0 +1,55 @@
+*{
+    text-decoration: none;
+    list-style-type: none;
+}
+.Firstnav{
+    width:100%;
+    height: 10px;
+}
+.Firstnav ul li{
+    display:inline;
+    
+}
+.first{
+    float:left;
+    margin-left:30px;
+}
+.meesho{
+    color:rgb(169, 8, 134);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+}
+.second{
+    float:right;
+    margin:5px;
+    padding:10px;
+    padding-right:20px;
+}
+.second ul li {
+    border-right: 2px solid rgb(169, 8, 134);
+    padding: 10px;
+    color:black;
+    font-size: 20px;
+}
+.second ul li a{
+    color:black;
+}
+.Secondnav {
+    width:100%;
+    margin-top: 90px;
+}
+.Secondnav ul li {
+    display:inline;
+    margin:20px;
+    padding: 5px;
+    font-size: 18px;
+}
+.link{
+    text-decoration: none;
+    color:black;
+}
+.link:hover{
+    color:rgb(169, 8, 134);
+}
+
