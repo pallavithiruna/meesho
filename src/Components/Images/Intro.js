@@ -12,7 +12,7 @@ function Intro() {
                <div className="intro-1-2-1"><img src="https://images.meesho.com/images/pow/easyReturns_jamun.svg" alt=""/><span></span>Easy Returns</div>
 
              </div>
-             <div className='intro-1-3'><span><img src="https://images.meesho.com/images/pow/playstoreSmallIcon.png"alt=""/><a href="https://play.google.com/store/apps/details?id=com.meesho.supply&pid=pow_website&c=pow&pow_click_page_type=HP&pow_distinct_id=188dcbcdf9437b-0ea57d048e68ae-26031d51-144000-188dcbcdf951a2">
+             <div className='intro-1-3'><span><img src="https://images.meesho.com/images/pow/playstoreSmallIcon.png"alt=""/><a href="#">
                 Download the Meesho App</a></span></div>  
            </div>
            <div className='intro2'>
@@ -62,10 +62,10 @@ function Intro() {
       </div> 
       <div className='image42'>
         <div>
-        <a href="https://play.google.com/store/apps/details?id=com.meesho.supply&pid=pow_website&c=pow&pow_click_page_type=HP&pow_distinct_id=188dcbcdf9437b-0ea57d048e68ae-26031d51-144000-188dcbcdf951a2"><img src="https://images.meesho.com/images/pow/playstoreIcon_500.webp"alt=""/></a>
+        <a href="#"alt=""/></a>
         </div>
         <div>
-        <a href="https://apps.apple.com/us/app/meesho/id1457958492"><img src="https://images.meesho.com/images/pow/appstoreIcon_500.webp"alt=""/></a>
+        <a href="#"alt=""/></a>
         </div>
       </div> 
       </div>
